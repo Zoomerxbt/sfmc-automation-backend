@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.db
+.venv/
+dist/
+.pytest_cache/
+structure.txt
+architectural-design-resource.txt
+project-flow.txt 
