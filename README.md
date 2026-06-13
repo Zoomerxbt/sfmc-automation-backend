@@ -6,14 +6,14 @@ This project solves the foundational hurdle of developing SFMC Custom Apps (such
 
 ---
 
-## 🚀 The Vision: Upcoming Features
+##  The Vision: Upcoming Features
 This repository serves as the foundation for a suite of SFMC utility apps. The immediate next feature on the roadmap is an **Email Annotation Injection Tool**. 
 
 > **Roadmap Feature:** This upcoming tool will allow developers to inject custom JSON-LD metadata into SFMC email templates, enabling rich features like Google Promotions tab highlights, deal badges, and expiration dates directly from an external interface.
 
 ---
 
-## ✨ Features
+##  Features
 
 * **FastAPI Core:** High-performance, asynchronous Python backend with automatic OpenAPI/Swagger documentation.
 * **SFMC OAuth2 Integration:** Implements the Server-to-Server Client Credentials flow to retrieve access tokens from the `/v1/token` endpoint.
@@ -22,7 +22,7 @@ This repository serves as the foundation for a suite of SFMC utility apps. The i
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language:** Python 3.10+
 * **Framework:** FastAPI
@@ -31,7 +31,7 @@ This repository serves as the foundation for a suite of SFMC utility apps. The i
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before running the application, you need an **Installed Package** in Salesforce Marketing Cloud:
 1. Log in to SFMC and navigate to **Administration > Setup > Platform Tools > Apps > Installed Packages**.
