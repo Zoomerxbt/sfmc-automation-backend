@@ -43,4 +43,4 @@ Before running the application, you need an **Installed Package** in Salesforce 
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
